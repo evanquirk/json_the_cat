@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/evanquirk/json_the_cat#readme",
   "dependencies": {
+    "eslint": "^7.19.0",
     "request": "^2.88.2"
   },
   "devDependencies": {
