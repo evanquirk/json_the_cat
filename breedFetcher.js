@@ -1,3 +1,6 @@
+//breedFetcher.js
+//@evanquirk
+
 const request = require('request');
 
 const fetchBreedDescription = function(breedName, callback) {
@@ -21,4 +24,4 @@ const fetchBreedDescription = function(breedName, callback) {
 
 };
 
-module.exports = { fetchBreedDescription };
+module.exports = { fetchBreedDescription }
